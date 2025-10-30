@@ -1,7 +1,12 @@
-# 🌸 Ferns and Petals Sales Analysis()
-## 📊 Project Overview
-This project analyzes sales data from Ferns and Petals (FNP), a company specializing in gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
-The goal is to uncover insights on sales trends, customer behavior, and product performance.
+# 🌸 Ferns and Petals Sales Analysis(interactive dashboard cheation by MS EXCEL)
+## 🚀 Objectives
+1. Calculate Total Revenue
+2. Analyze Average Order & Delivery Time
+3. Study Monthly Sales Performance
+4. Identify Top Products by Revenue
+5. Understand Customer Spending Patterns
+6. Compare Revenue by Occasions
+7. Find Top 10 Cities by Orders
 ## Business Questions
 1. What is the total revenue?
 2. Which are the top-selling products?
