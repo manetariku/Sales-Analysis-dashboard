@@ -1,4 +1,4 @@
-# 🌸 Ferns and Petals Sales Analysis(interactive dashboard cheation by MS EXCEL)
+# 🌸 Ferns and Petals Sales Analysis(interactive dashboard ceation by MS EXCEL)
 ## 🚀 Objectives
 1. Calculate Total Revenue
 2. Analyze Average Order & Delivery Time
